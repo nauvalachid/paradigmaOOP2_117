@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgramnoOverriding", "Prog
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "program Nopewarisan", "program Nopewarisan\program Nopewarisan.vcxproj", "{96201527-4D38-4642-B721-E9CB817A5C2A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "program enkapluasi", "program enkapluasi\program enkapluasi.vcxproj", "{CD75E24A-4699-494E-8DF6-22F3CFD6EF94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{96201527-4D38-4642-B721-E9CB817A5C2A}.Release|x64.Build.0 = Release|x64
 		{96201527-4D38-4642-B721-E9CB817A5C2A}.Release|x86.ActiveCfg = Release|Win32
 		{96201527-4D38-4642-B721-E9CB817A5C2A}.Release|x86.Build.0 = Release|Win32
+		{CD75E24A-4699-494E-8DF6-22F3CFD6EF94}.Debug|x64.ActiveCfg = Debug|x64
+		{CD75E24A-4699-494E-8DF6-22F3CFD6EF94}.Debug|x64.Build.0 = Debug|x64
+		{CD75E24A-4699-494E-8DF6-22F3CFD6EF94}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD75E24A-4699-494E-8DF6-22F3CFD6EF94}.Debug|x86.Build.0 = Debug|Win32
+		{CD75E24A-4699-494E-8DF6-22F3CFD6EF94}.Release|x64.ActiveCfg = Release|x64
+		{CD75E24A-4699-494E-8DF6-22F3CFD6EF94}.Release|x64.Build.0 = Release|x64
+		{CD75E24A-4699-494E-8DF6-22F3CFD6EF94}.Release|x86.ActiveCfg = Release|Win32
+		{CD75E24A-4699-494E-8DF6-22F3CFD6EF94}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
